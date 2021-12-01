@@ -24,8 +24,7 @@
 
 8. Obtaining all Pairwise Correlations
 
-**Project Award/Accomplishment Certificate: ** 
-[Exploratory Data Analysis with Seaborn .pdf](https://github.com/Pikachu0405/Exploratory-Data-Analysis-with-Seaborn/files/7634395/Exploratory.Data.Analysis.with.Seaborn.pdf)
+**Project Award/Accomplishment Certificate:** [Exploratory Data Analysis with Seaborn .pdf](https://github.com/Pikachu0405/Exploratory-Data-Analysis-with-Seaborn/files/7634395/Exploratory.Data.Analysis.with.Seaborn.pdf)
 
 
 ![image](https://user-images.githubusercontent.com/93926742/144247578-70d40d4f-e1a3-4d86-a923-b81ef5f6ce96.png)
